@@ -1,8 +1,7 @@
 .square {
     height: 50px;
     width: 50px;
-    background-color: rgb(202, 202, 98);
-    border-style: solid;
+    background-color: rgb(255, 255, 255);
 }
 
 .hover {
@@ -12,4 +11,5 @@
 .container {
     display: flex;
     flex-wrap: wrap;
+    border-style: solid;
 }
